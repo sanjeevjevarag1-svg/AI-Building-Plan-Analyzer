@@ -8,3 +8,4 @@ Pillow
 reportlab
 torch
 torchvision
+fpdf2
